@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PG Search</string>
+    <string name="the_perfect_place">THE PERFECT PLACE</string>
+    <string name="not_registered_tap_here">Not registered yet? Tap here</string>
+    <string name="enter_your_email">EMAIL</string>
+    <string name="enter_your_password">PASSWORD</string>
+    <string name="already_registered_sign_in_here">Already registered? Tap here</string>
+    <string name="enter_your_name">NAME</string>
+    <string name="pg_name">PG NAME</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="owner_email">Owner Email</string>
+    <string name="aadhar_card_number">Aadhar Card Number</string>
+    <string name="pg_registration_id">PG Registration Id</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="heading_one">Heading 1</string>
+    <string name="heading_two">Heading 2</string>
+    <string name="heading_three">Heading 3</string>
+    <string name="heading_fourth">Heading 4</string>
+
+    <string name="desc_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="search_toolbar_text">Search toolbar text</string>
+    <string name="main_activity_text">Find Your Perfect Place</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="sample_pg_name">Sample PG NAME</string>
+    <string name="sample_pg_owner">Sample PG owner</string>
+    <string name="rating">4.5/5</string>
+
+</resources>
